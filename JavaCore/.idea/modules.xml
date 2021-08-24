@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Collection/Collection.iml" filepath="$PROJECT_DIR$/../Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day01Demo/Day01Demo.iml" filepath="$PROJECT_DIR$/../Day01Demo/Day01Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day02Demo/Day02Demo.iml" filepath="$PROJECT_DIR$/../Day02Demo/Day02Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exception/Exception.iml" filepath="$PROJECT_DIR$/../Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FileIO/FileIO.iml" filepath="$PROJECT_DIR$/../FileIO/FileIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Generic/Generic.iml" filepath="$PROJECT_DIR$/../Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaNetCommunication/JavaNetCommunication.iml" filepath="$PROJECT_DIR$/../JavaNetCommunication/JavaNetCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Junit-Reflection-Annotation-dynamicProxy/Junit-Reflection-Annotation-dynamicProxy.iml" filepath="$PROJECT_DIR$/../Junit-Reflection-Annotation-dynamicProxy/Junit-Reflection-Annotation-dynamicProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lambda-Stream/Lambda-Stream.iml" filepath="$PROJECT_DIR$/../Lambda-Stream/Lambda-Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MutilThread/MutilThread.iml" filepath="$PROJECT_DIR$/../MutilThread/MutilThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javacore-01-ThreadPoolExecutor/javacore-01-ThreadPoolExecutor.iml" filepath="$PROJECT_DIR$/../javacore-01-ThreadPoolExecutor/javacore-01-ThreadPoolExecutor.iml" />
+    </modules>
+  </component>
+</project>

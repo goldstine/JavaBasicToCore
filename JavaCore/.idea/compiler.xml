@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Junit-Reflection-Annotation-dynamicProxy" />
+        <module name="Lambda-Stream" />
+        <module name="JavaNetCommunication" />
+        <module name="Generic" />
+        <module name="MutilThread" />
+        <module name="Collection" />
+        <module name="Day02Demo" />
+        <module name="javacore-01-ThreadPoolExecutor" />
+        <module name="Day01Demo" />
+        <module name="Exception" />
+        <module name="FileIO" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Collection" target="1.8" />
+      <module name="Day01Demo" target="1.8" />
+      <module name="Day02Demo" target="1.8" />
+      <module name="Exception" target="1.8" />
+      <module name="FileIO" target="1.8" />
+      <module name="Generic" target="1.8" />
+      <module name="javacore-01-ThreadPoolExecutor" target="1.8" />
+      <module name="JavaNetCommunication" target="1.8" />
+      <module name="Junit-Reflection-Annotation-dynamicProxy" target="1.8" />
+      <module name="Lambda-Stream" target="1.8" />
+      <module name="MutilThread" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

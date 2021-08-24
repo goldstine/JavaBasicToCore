@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<书架 xmlns="http://www.goldstine.cn"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.goldstine.cn books02.xsd">
+    <!--如果有多个导入的外部约束文件.xsd，可以通过:it别名的方式区分-->
+    <书>
+        <书名>红花楼</书名>
+        <作者>曹雪芹</作者>
+        <售价>12</售价>
+    </书>
+    <书>
+        <书名>hong</书名>
+        <作者>as</作者>
+        <售价>34</售价>
+    </书>
+    <书>
+        <书名>sd</书名>
+        <作者>fg</作者>
+        <售价>56.2</售价>
+    </书>
+</书架>

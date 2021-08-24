@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../javacore-01-ThreadPoolExecutor/pom.xml" />
+        <option value="$PROJECT_DIR$/../Day01Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../Day02Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/../MutilThread/pom.xml" />
+        <option value="$PROJECT_DIR$/../Lambda-Stream/pom.xml" />
+        <option value="$PROJECT_DIR$/../Collection/pom.xml" />
+        <option value="$PROJECT_DIR$/../FileIO/pom.xml" />
+        <option value="$PROJECT_DIR$/../JavaNetCommunication/pom.xml" />
+        <option value="$PROJECT_DIR$/../Junit-Reflection-Annotation-dynamicProxy/pom.xml" />
+        <option value="$PROJECT_DIR$/../Exception/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="Day01Demo" />
+      </set>
+    </option>
+  </component>
+</project>
